@@ -6,7 +6,7 @@ function App({ Component, pageProps }: AppProps) {
   return (
     <div>
       <Head>
-        <title>유림, 기효 결혼해요</title>
+        <title>Deja and Elias</title>
         <meta
           name="description"
           content="9월 17일 토요일 12시, 네이버 1784사옥 28층 스카이홀"
