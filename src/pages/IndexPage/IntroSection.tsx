@@ -30,14 +30,12 @@ const AvatarImage = () => {
       }}
     >
       <Image
-        src={avatarImage}
-        alt=""
-        // sizes="(min-width: 75em) 10vw,
-        //         (min-width: 48em) 10vw,
-        //         10vw"
-        // layout="responsive"
-        style={{ transform: 'scaleX(-1)' }}
-      />
+  src="/photos/couple.png"
+  alt=""
+  width={230}
+  height={230}
+  style={{ transform: 'scaleX(-1)' }}
+/>
     </div>
   );
 };
