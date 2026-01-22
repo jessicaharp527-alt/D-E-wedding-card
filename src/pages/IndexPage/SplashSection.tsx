@@ -6,7 +6,7 @@ const SplashSection = () => {
     <div style={{ height: '100vh', color: 'white' }}>
       <JejuVideo />
       <FlexContainer>
-        <MainHeading>D and E are getting married!</MainHeading>
+        <MainHeading>Deja and Elias are getting married!</MainHeading>
         <div>
           2022년 9월 17일 토요일 낮 12시
           <br />
