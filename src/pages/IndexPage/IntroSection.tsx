@@ -80,21 +80,26 @@ const InfoTable = () => {
   return (
     <BorderedTable style={{ margin: '3rem 0 9rem', position: 'relative' }}>
       <tbody>
-        <tr>
-          <td>언제</td>
-          <td>
-            2022년 9월 17일 토요일
-            <br />낮 12시 (11시 식장 오픈)
-          </td>
-        </tr>
-        <tr>
-          <td>어디서</td>
-          <td>
-            네이버 1784 신사옥 28층 스카이홀 <br />
-            경기 성남시 분당구 정자일로 95
-          </td>
-        </tr>
-      </tbody>
+  <tr>
+    <td>When</td>
+    <td>
+      Saturday, June 17, 2028
+      <br />
+      12:00 PM (doors open at 11:00 AM)
+    </td>
+  </tr>
+  <tr>
+    <td>Where</td>
+    <td>
+      George Peabody Library
+      <br />
+      17 E. Mount Vernon Place, Baltimore, MD 21202
+      <br />
+      Historic Mount Vernon neighborhood, across from the Washington Monument
+    </td>
+  </tr>
+</tbody>
+
     </BorderedTable>
   );
 };
