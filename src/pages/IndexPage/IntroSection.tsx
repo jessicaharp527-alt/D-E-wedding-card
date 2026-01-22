@@ -46,11 +46,31 @@ const WelcomeText = () => {
   return (
     <div>
       <p>
-        7년 연애 끝에 결혼합니다.
-        <br />
-        서로가 없는 시간을 상상하기 어려워
-        <br />
-        연애 시즌2를 시작해보려 합니다.
+        <div>
+  <p>
+    Their story began in high school, where they met as friends long before
+    either of them imagined what the future would hold.
+    <br />
+    <br />
+    At first, the connection was lighthearted and playful. She wasn’t exactly
+    easy on him in the beginning, but he was persistent in the way that mattered,
+    patient, steady, and genuine.
+    <br />
+    <br />
+    Over time, friendship turned into something deeper, and they found
+    themselves choosing each other without forcing anything.
+    <br />
+    <br />
+    Growing up side by side, they learned, changed, and supported one another
+    through every stage of life.
+    <br />
+    <br />
+    What started in high school grew into a love built on years of trust,
+    laughter, and shared memories, a true high school sweetheart story that has
+    only grown stronger with time.
+  </p>
+</div>
+
       </p>
 
       <p>
